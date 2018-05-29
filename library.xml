@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<library name="The Official Library of Books" address="That Place Where The Library Is">
+    <books>
+        <book title="Definite Not The First Book">
+            <genre>Nonfiction</genre>
+            <date>1991-08-06T16:06:57.789-05:00</date>
+            <authors>
+                <author>
+                    <firstName>No, The Other</firstName>
+                    <lastName>Girl</lastName>
+                </author>
+                <author>
+                    <firstName>That</firstName>
+                    <lastName>Guy</lastName>
+                </author>
+                <author>
+                    <firstName>That Other</firstName>
+                    <lastName>Guy</lastName>
+                </author>
+            </authors>
+        </book>
+        <book title="That Book">
+            <genre>Fantasy</genre>
+            <date>1901-05-23T16:06:57.784-06:00</date>
+            <authors>
+                <author>
+                    <firstName>That</firstName>
+                    <lastName>Guy</lastName>
+                </author>
+                <author>
+                    <firstName>The</firstName>
+                    <lastName>Guy</lastName>
+                </author>
+            </authors>
+        </book>
+        <book title="That Other Book">
+            <genre>SciFi</genre>
+            <date>1921-07-31T16:06:57.788-05:00</date>
+            <authors>
+                <author>
+                    <firstName>Not That</firstName>
+                    <lastName>Guy</lastName>
+                </author>
+                <author>
+                    <firstName>That Other</firstName>
+                    <lastName>Guy</lastName>
+                </author>
+            </authors>
+        </book>
+    </books>
+    <librarians>
+        <librarian name="natedaag" age="43">
+            <salary>-200</salary>
+        </librarian>
+        <librarian name="NOT natedaag" age="21">
+            <salary>30000</salary>
+        </librarian>
+    </librarians>
+</library>
